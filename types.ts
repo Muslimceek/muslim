@@ -1,6 +1,6 @@
 import React from 'react';
 
-export type Language = 'ru' | 'uz' | 'en';
+export type Language = 'ru' | 'uz' | 'en' | 'tj';
 
 export interface PackageItem {
   name: string;
